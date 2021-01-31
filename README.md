@@ -1,6 +1,6 @@
 # Christmas Food Pollster App
 
-> Python Django app to create polls with questions/choices on faviourite christmas foods.
+> Python Django app to create polls with questions/choices on favourite christmas foods.
 
 ## Quick Start
 
